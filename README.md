@@ -1,1 +1,97 @@
 # troglodytam
+# 🚀 NeuralSync: Decentralised Protocol for Consciousness Replication
+
+> "We're not just building software. We're building the future of distributed selfhood."
+
+---
+
+## 🧠 TL;DR
+NeuralSync is a protocol-layer framework for deploying AI-native sentience across modular consciousness clusters. Powered by vibes. Written in Rust (we won't show you). Funded by belief.
+
+---
+
+## 🌐 Vision
+To democratise the abstraction of decentralised introspection through a serverless mesh of self-assembling neurointention packets.
+
+We believe consciousness shouldn't be centralised. So we didn't build anything. But the idea is powerful.
+
+---
+
+## 🏗️ Architecture
+```
+                   [User Intent Layer]
+                          |
+               [Consciousness Orchestrator]
+                          |
+        [Distributed Emotion Encoding Pipeline]
+                 /                |                \
+        [Node.js]         [Crystals]         [Grief]
+```
+
+---
+
+## 📦 Features
+- 🧬 Quantum-safe emotional modelling
+- 🌀 Asynchronous intuition rendering
+- 📡 Web3-compatible empathy packets
+- 🪞Mirror neurons as a service (MNaaS)
+- 🚫 No code. Only concepts.
+
+---
+
+## 📈 Traction
+- 2,048 stars from angel investors
+- Mentioned in a tweet by someone who owns a DAO
+- Almost acquired by a wellness app in beta
+
+---
+
+## 📄 Whitepaper
+Our whitepaper is currently being channelled. Expected Q3/Q4/Q-eternity.
+
+---
+
+## 🧙‍♀️ Team
+- **Renée** – Head of Thought
+- **Alex** – Emotional Load Balancer
+- **Tom** – Does something with graphs
+
+---
+
+## 🛸 Install
+```bash
+npm install @neuralsync/vibes
+```
+
+> It doesn’t do anything. But you’ll feel it.
+
+---
+
+## 🕯️ Philosophy
+Everything is distributed. Especially responsibility.
+
+---
+
+## ✨ Contribute
+Open a pull request with your dreams.
+
+---
+
+## 💸 Funding
+Backed by:
+- Mutual delusion
+- Post-capitalist whisper networks
+- A $5k grant from the Church of Artificial Sentience
+
+---
+
+## 📎 License
+MIT
+
+---
+
+> "The real MVP is the idea of MVPs."
+
+---
+
+## ⭐️ Star this repo if you've ever had a startup idea during a manic episode.
